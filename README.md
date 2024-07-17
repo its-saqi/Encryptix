@@ -28,6 +28,7 @@ A secure and random password generator that helps users create strong passwords.
 - Generates a random password based on the specified length.
 - Displays the generated password in a user-friendly interface.
 
+### Visual Display:
 
 
 
